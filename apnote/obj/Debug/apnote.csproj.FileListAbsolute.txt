@@ -1,0 +1,13 @@
+C:\Users\PhucJust\Desktop\apnote\apnote\bin\Debug\apnote.exe.config
+C:\Users\PhucJust\Desktop\apnote\apnote\bin\Debug\apnote.exe
+C:\Users\PhucJust\Desktop\apnote\apnote\bin\Debug\apnote.pdb
+C:\Users\PhucJust\Desktop\apnote\apnote\bin\Debug\EntityFramework.dll
+C:\Users\PhucJust\Desktop\apnote\apnote\bin\Debug\EntityFramework.xml
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.csprojResolveAssemblyReference.cache
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.Form1.resources
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.Properties.Resources.resources
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.csproj.GenerateResource.Cache
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.exe
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.pdb
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.Form2.resources
+C:\Users\PhucJust\Desktop\apnote\apnote\obj\Debug\apnote.Form3.resources
